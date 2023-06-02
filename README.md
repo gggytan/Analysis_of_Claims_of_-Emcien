@@ -31,8 +31,8 @@ construct the confidence interval for our model validation.
 
 :speech_balloon:__Impact:__
 By developing a predictive model for claim amount, consumers can better understand
-the factors that impact the claim amount and the response and take measures to determine theie auto
-insureance plan, thus improving their economic benefits. Additionally, insurance companies can use our model to
+the factors that impact the claim amount and the response and take measures to determine their auto
+insurance plan, thus improving their economic benefits. Additionally, insurance companies can use our model to
 identify which variables most impact claim amount and adjust their insurance products
 and prices to more accurately reflect risk. Public policy makers can also use our model to
 develop more effective policies to protect consumer interests and promote healthy and safe 
